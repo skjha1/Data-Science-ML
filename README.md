@@ -4,4 +4,4 @@ In this we are going to see how different library of python is used for data ana
 
 ### NumPy
 
-* [NumPy Basics]("https://nbviewer.jupyter.org/github/skjha1/Data-Science/blob/master/NumPy%20For%20Data%20Analysis.ipynb")
+* [NumPy Basics]('https://nbviewer.jupyter.org/github/skjha1/Data-Science/blob/master/NumPy%20For%20Data%20Analysis.ipynb')
