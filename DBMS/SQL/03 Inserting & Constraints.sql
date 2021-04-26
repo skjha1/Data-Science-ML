@@ -19,3 +19,13 @@ INSERT INTO student(student_id,name) VALUES (3,'Shyam');
 -- you cant do duplicate entry of primary key 
 
 insert into student value (4,'Geeta','PHY')
+
+-----------------------------------------------------------------------------
+
+
+CREATE TABLE student (
+  student_id INT PRIMARY KEY AUTO_INCREMENT,
+  name VARCHAR(40) NOT NULL,
+  -- name VARCHAR(40) UNIQUE,
+  major VARCHAR(40) DEFAULT 'undecided',
+);
