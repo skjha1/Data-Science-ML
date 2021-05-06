@@ -1,6 +1,6 @@
 ## Data Science Repo
 
-What are all the skills we should good at as a Data science enthusiastic.
+
 ![](https://github.com/skjha1/Data-Science/blob/master/Src/Img/Data-Science-Roadmap.png)
 
 
