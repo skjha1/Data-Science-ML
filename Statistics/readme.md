@@ -1,3 +1,4 @@
+
 ## Reference
 * [PyMC3](https://docs.pymc.io)
 * [Quick-R](https://www.statmethods.net)
@@ -76,3 +77,18 @@
 * [A comprehensive beginner’s guide to create a Time Series Forecast (with Codes in Python)](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
 * [Under the Hood:Plotting various regression models and data preparation- from Machine Learning to Deep Learning Models](https://medium.com/@xijianlim/part-1-of-guerrilla-ml-ab5731bf94ed)
 
+
+
+* Mean, Median, Mode
+* Standard Deviation
+* Variance
+* Co-variance
+* Probability Distribution
+* Hypothesis Testing
+* t-test, p-value, chi-squared test
+* Confidence Intervals
+* Confidence levels and Sigificance levels
+* Correlation
+* Resampling (and uses in Big Data)
+* A/B Testing
+* A simple linear regression model
