@@ -1,0 +1,130 @@
+Introduction to Data Science
+9:55 Data Analysis at Walmart
+13:20 What is Data Science?
+14:39 Who is a Data Scientist?
+16:50 Data Science Skill Set
+21:51 Data Science Job Roles
+26:58 Data Life Cycle
+30:25 Statistics & Probability
+34:31 Categories of Data
+34:50 Qualitative Data
+36:09 Quantitative Data
+39:11 What is Statistics?
+41:32 Basic Terminologies in Statistics
+   42:50 Sampling Techniques
+   45:31 Random Sampling
+   46:20 Systematic Sampling
+   46:50 Stratified Sampling
+47:54 Types of Statistics
+50:38 Descriptive Statistics
+55:52 Measures of Spread
+   55:56 Range 
+   56:44 Inter Quartile Range
+   58:58 Variance
+   59:36 Standard Deviation
+1:14:25 Confusion Matrix
+1:19:16 Probability
+1:24:14 What is Probability?
+1:27:13 Types of Events
+1:27:58 Probability Distribution
+1:28:15 Probability Density Function
+1:30:02 Normal Distribution
+1:30:51 Standard Deviation & Curve
+1:31:19 Central Limit Theorem
+1:33:12 Types of Probablity
+   1:33:34 Marginal Probablity 
+   1:34:06 Joint Probablity 
+   1:34:58 Conditional Probablity 
+1:35:56 Use-Case
+1:39:46 Bayes Theorem
+1:45:44 Inferential Statistics
+1:56:40 Hypothesis Testing
+2:00:34 Basics of Machine Learning
+2:01:41 Need for Machine Learning 
+2:07:03 What is Machine Learning?
+2:09:21 Machine Learning Definitions
+2:!1:48 Machine Learning Process
+2:18:31 Supervised Learning Algorithm
+2:19:54 What is Regression?
+2:21:23 Linear vs Logistic Regression
+2:33:51 Linear Regression
+2:25:27 Where is Linear Regression used?
+2:27:11 Understanding Linear Regression
+2:37:00 What is R-Square?
+2:46:35 Logistic Regression
+2:51:22 Logistic Regression Curve
+2:53:02 Logistic Regression Equation
+2:56:21 Logistic Regression Use-Cases
+2:58:23 Demo
+3:00:57 Implement Logistic Regression
+   3:02:33 Import Libraries
+   3:05:28 Analyzing Data
+   3:11:52 Data Wrangling
+   3:23:54 Train & Test Data
+   3:20:44 Implement Logistic Regression
+3:31:04 SUV Data Analysis
+3:38:44 Decision Trees
+3:39:50 What is Classification?
+3:42:27 Types of Classification
+   3:42:27 Decision Tree
+   3:43:51 Random Forest
+   3:45:06 Naive Bayes
+   3:47:12 KNN
+3:49:02 What is Decision Tree?
+3:55:15 Decision Tree Terminologies
+3:56:51 CART Algorithm
+3:58:50 Entropy
+4:00:15 What is Entropy?
+4:23:52 Random Forest
+4:27:29 Types of Classifier
+4:31:17 Why Random Forest?
+4:39:14 What is Random Forest?
+4:51:26 How Random Forest Works?
+4:51:36 Random Forest Algorithm
+5:04:23 K Nearest Neighbour
+5:05:33 What is KNN Algorithm?
+5:08:50 KNN Algorithm Working
+5:14:55 kNN Example
+5:24:30 What is Naive Bayes?
+5:25:13 Bayes Theorem
+5:27:48 Bayes Theorem  Proof
+5:29:43 Naive Bayes Working
+5:39:06 Types of Naive Bayes
+5:53:37 Support Vector Machine
+5:57:40 What is SVM?
+5:59:46 How does SVM work?
+6:03:00 Introduction to Non-Linear SVM
+6:04:48 SVM Example
+6:06:12 Unsupervised Learning Algorithms - KMeans
+6:06:18 What is Unsupervised Learning?
+6:06:45 Unsupervised Learning: Process Flow
+6:07:17 What is Clustering?
+6:09:15 Types of Clustering
+6:10:15 K-Means Clustering
+6:10:40 K-Means Algorithm Working
+6:16:17 K-Means Algorithm
+6:19:16 Fuzzy C-Means Clustering  
+6:21:22 Hierarchical Clustering
+6:22:53 Association Clustering
+6:24:57 Association Rule Mining
+6:30:35 Apriori Algorithm
+6:37:45 Apriori Demo
+6:40:49 What is Reinforcement Learning?
+6:42:48 Reinforcement Learning Process
+6:51:10 Markov Decision Process
+6:54:53 Understanding Q - Learning
+7:13:12 Q-Learning Demo
+7:25:34 The Bellman Equation
+7:48:39 What is Deep Learning?
+7:52:53 Why we need Artificial Neuron?
+7:54:33 Perceptron Learning Algorithm
+7:57:57 Activation Function
+8:03:14 Single Layer Perceptron
+8:04:04 What is Tensorflow?
+8:07:25 Demo
+8:21:03 What is a Computational Graph?
+8:49:18 Limitations of Single Layer Perceptron
+8:50:08 Multi-Layer Perceptron
+8:51:24 What is Backpropagation?
+8:52:26 Backpropagation Learning Algorithm
+8:59:31 Multi-layer Perceptron Demo
