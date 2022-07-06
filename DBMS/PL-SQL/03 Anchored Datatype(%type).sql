@@ -19,3 +19,7 @@ begin
 select Name1 into v_fname from Student where RegNo=141;
 DBMS_OUTPUT.PUT_LINE(v_fname);
 end;
+
+
+
+alter table Student modify Name1 char(10); -- after altering the varchar datatypes will giive error where anchored datatype will handle that error.
