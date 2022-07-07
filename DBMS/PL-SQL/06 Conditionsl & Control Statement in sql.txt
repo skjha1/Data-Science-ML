@@ -1,0 +1,20 @@
+An Introduction To Conditional Control Statements In PL/SQL
+Conditional control statements are those which allow you to control the execution flow of the program depending on a condition. In other words the statements in the program are not necessarily executed in a sequence rather one or other group of statements are executed depending on the evaluation of a condition.
+
+Types Of Conditional Control Statement in PL/SQL
+In Oracle PL/SQL we have two types of conditional control statements which are
+
+IF statements and
+CASE statements
+Both these statements can be further divided into different forms. For example IF statements has 3 different forms
+
+An Introduction To Conditional Control Statements In PL/SQL
+Conditional control statements are those which allow you to control the execution flow of the program depending on a condition. In other words the statements in the program are not necessarily executed in a sequence rather one or other group of statements are executed depending on the evaluation of a condition.
+
+Types Of Conditional Control Statement in PL/SQL
+In Oracle PL/SQL we have two types of conditional control statements which are
+
+IF statements and
+CASE statements
+Both these statements can be further divided into different forms. For example IF statements has 3 different forms
+
