@@ -69,3 +69,21 @@ BEGIN
 EXCEPTION
   exception-handling statements
 END;
+
+-- Uses of Database triggers.
+
+-- Using database triggers we can enforce business rules that can’t be defined by using integrity constants.
+-- Using triggers we can gain strong control over the security.
+-- We can also collect statistical information on the table access.
+-- We can automatically generate values for derived columns such as auto increment numeric primary key.
+-- Using database triggers we can prevent the invalid transactions.
+
+
+-- Restriction on The Database Triggers
+
+-- The maximum size of the database trigger body must not exceed 32,760 bytes. This is because triggers’ bodies are stored in LONG datatypes columns.
+-- A trigger may not issue transaction control statements or TCL statements such as COMMIT, ROLLBACK or SAVEPOINT. All operations performed when the trigger fires, 
+-- become part of a transaction. 
+-- Therefore whenever this transaction is rolled back or committed it leads to the respective rolling back or committing of the operations performed. 
+-- Any function or procedure called by a database trigger may not issue a transactional control statement. That is unless it contains an autonomous transaction.
+-- Declaring LONG or LONG RAW variable is not permissible in the body of the trigger.
